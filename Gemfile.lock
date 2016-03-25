@@ -110,9 +110,18 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
+<<<<<<< HEAD
     simple_form (3.2.1)
       actionpack (> 4, < 5.1)
       activemodel (> 4, < 5.1)
+=======
+<<<<<<< HEAD
+    simple_form (3.2.1)
+      actionpack (> 4, < 5.1)
+      activemodel (> 4, < 5.1)
+=======
+>>>>>>> fb80b063f7fb3d8bfdab3397e87937b7390d1dbc
+>>>>>>> 29e8dd5b899586b07237a779e668d25ee424b8c8
     sprockets (2.11.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
