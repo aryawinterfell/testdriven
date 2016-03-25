@@ -1,6 +1,9 @@
 Testdriven::Application.routes.draw do
   root "grams#index"
+<<<<<<< HEAD
     resources :grams, only: [:new, :create]
+=======
+>>>>>>> fb80b063f7fb3d8bfdab3397e87937b7390d1dbc
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -11,8 +11,11 @@ gem 'sass-rails'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
+<<<<<<< HEAD
 
 gem 'simple_form'
+=======
+>>>>>>> fb80b063f7fb3d8bfdab3397e87937b7390d1dbc
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
